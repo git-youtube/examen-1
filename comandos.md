@@ -2,21 +2,33 @@
 
 ## Codigos
 
-- git init
+- git init: iniciar el git
 
-- git clone <url>
+- git clone <url>: crea copia del repositorio en tu ordenador
 
-- git git add .
+- git git add . : el comando añade todos los archivos al área temporal
 
 - git commit -m "Texto que identifique por que se hizo el commit"
 
-- git push origin master
+- git push: con este comando se suben los archivos a github
 
-- git branch
+- git branch: utilizado para mirar las ramas que tengas creadas
 
-- push -u origin master
+- push -u origin master: sube los archivos de tu rama principal (tu rama master) a la rama de origen de github (origin)
 
-- doskey /history
+- doskey /history: una vez puesto este comando aparecerán todos los comandos que han sido utilizados en una lista
+
+- git config: el siguiente comando se usa para establecer un email
+
+- git version: sirve para ver que versión de git hay instalada.
+
+- git branch "nombre": crea una nueva rama con el nombre elegido
+
+- git rebase: recopila uno a uno los cambios confirmados en una rama, y reaplicarlos sobre otra
+
+-  git log --online: sirve para ver los identificadores de los commit
+
+- - git status -s: utilizado para saber que archivos no tienen seguimiento
 
 ## Recordatorios
 
