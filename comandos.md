@@ -50,4 +50,4 @@ git push -u origin main
 
 ### Importar código de otro repositorio
 
-- Puede inicializar este repositorio con código de un proyecto de Subversion, Mercurial o TFS.
+- Puede inicializar este repositorio con código de un proyecto de Subversion, Mercurial o TFS
